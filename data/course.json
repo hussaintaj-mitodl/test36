@@ -1,7 +1,9 @@
 {
   "term": "",
   "year": "",
-  "level": [],
+  "level": [
+    "Undergraduate"
+  ],
   "topics": [],
   "legacy_uid": "",
   "instructors": {
@@ -9,22 +11,22 @@
     "website": "test36"
   },
   "course_image": {
-    "content": "3bd2c3d8-9808-4f56-a7c5-03275db6cc52",
+    "content": "",
     "website": "test36"
   },
-  "course_title": "test36",
+  "course_title": "title",
   "hide_download": false,
-  "course_description": "",
+  "course_description": "asd",
   "department_numbers": [
     "1"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "36",
+  "primary_course_number": "1",
   "course_image_thumbnail": {
-    "content": "3bd2c3d8-9808-4f56-a7c5-03275db6cc52",
+    "content": "",
     "website": "test36"
   },
   "learning_resource_types": [],
-  "site_uid": "2c72fadb-569b-4900-8a53-a1729e4a760c",
+  "site_uid": "0c668995-9222-4d25-ab87-eb1a9ac087c0",
   "site_short_id": "test36"
 }
